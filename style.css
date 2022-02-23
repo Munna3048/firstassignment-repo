@@ -84,6 +84,10 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.tomato-color{
+    color: tomato;
+    font-weight: 700;
+}
 .footer-color{
     background-color: black;
     text-align: center;
