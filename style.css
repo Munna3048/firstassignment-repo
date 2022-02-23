@@ -1,7 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-top: 0;
 }
 
 .flexible-container{
@@ -74,4 +73,16 @@ h1{
 #color-three{
     background-color: rgb(0, 195, 255);
 }
+
+.bgimage{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.bgimageone{
+    background-image: url(images/shapes/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
 
