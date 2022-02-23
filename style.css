@@ -84,5 +84,13 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.footer-color{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 100px;
+     
 
+}
 
